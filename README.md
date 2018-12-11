@@ -1,4 +1,5 @@
-# bocai_0
+# 客户端请求API
+        base-url:http://122.152.214.84:8888
 
 ## 创建eos账号
     /eos/create_account/{account}/{active}
@@ -51,3 +52,9 @@
 ```javascript
 13.55054361
 ```
+
+# 安全验证
+* 请求头加入安全验证
+* IP限流
+
+
