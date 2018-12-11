@@ -53,6 +53,9 @@
 13.55054361
 ```
 
+### 4、帮助中心
+https://bocaihelp.zendesk.com/hc/zh-cn
+
 # 安全验证
 * 请求头加入安全验证
 * IP限流
