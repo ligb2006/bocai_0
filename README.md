@@ -1,5 +1,6 @@
 # 客户端请求API
         base-url:http://122.152.214.84:8888
+        eos-test-net:https://www.cryptokylin.io/
         code:100
         detail:错误详情
         data:成功后的数据
