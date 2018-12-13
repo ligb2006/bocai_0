@@ -66,6 +66,7 @@ https://bocaihelp.zendesk.com/hc/zh-cn
 
 # 安全验证
 * 请求头加入安全验证
-* IP限流
+* IP限流，单IP每日注册限制
+* 每日注册账户总数限制
 
 
