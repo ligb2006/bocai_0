@@ -62,11 +62,23 @@ eos人民币市场价
 ```
 
 ## 4、帮助中心
-https://bocaihelp.zendesk.com/hc/zh-cn
+        /help.html
+        * 跳转至zendesk
 
 ## 5、版本拉取 ✔
+        格式：版本号 + "," + 最新包下载地址
+        ios:/vios.txt
+        android:/vandroid.txt
 
-## 6、导入EOS账户（统计注册量） ✘
+## 6、用户协议
+        /agreement.html
+
+## 7、联系我们
+        /contact.html
+
+## 6、（统计注册量） ✘
+        /eos/account/login_log
+        POST参数:account[string] not null, owner[string] null, publickey[string] null
 
 ## 7、进入钱包APP（统计日活） ✘
 
