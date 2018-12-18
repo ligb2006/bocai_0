@@ -87,4 +87,17 @@ eos人民币市场价
 * IP限流，单IP每日注册限制 ✔
 * 每日注册账户总数限制 ✔
 
+## 8、申请账号
+        /eos/contract/alloc/{publickey}
+```javascript
+{"code":"0","detail":"恭喜你，操作成功","data":["etgdwsfgcnam","EOS8YKspa5hq5JyFJkFPQHAz11D88vmoCg4QDGvzE5GvwGAAz1NTE","EOS8RmNKWoDQt5RNR1LYXmWy1Rch1yq91KpnCyFWMCehMGSbotzEH"]}
+```
+
+## 9、激活账户
+        /eos/contract/active/{account}
+```javascript
+{"code":"0","detail":"恭喜你，操作成功","data":["etgdwsfgcnam","EOS8YKspa5hq5JyFJkFPQHAz11D88vmoCg4QDGvzE5GvwGAAz1NTE","EOS8RmNKWoDQt5RNR1LYXmWy1Rch1yq91KpnCyFWMCehMGSbotzEH"]}
+```
+
+
 
