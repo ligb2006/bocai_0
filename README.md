@@ -96,7 +96,7 @@ eos人民币市场价
 ## 9、激活账户
         /eos/contract/active/{account}
 ```javascript
-{"code":"0","detail":"恭喜你，操作成功","data":["etgdwsfgcnam","EOS8YKspa5hq5JyFJkFPQHAz11D88vmoCg4QDGvzE5GvwGAAz1NTE","EOS8RmNKWoDQt5RNR1LYXmWy1Rch1yq91KpnCyFWMCehMGSbotzEH"]}
+
 ```
 
 
