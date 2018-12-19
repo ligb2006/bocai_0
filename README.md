@@ -1,5 +1,5 @@
 # 客户端请求API
-        base-url:http://122.152.214.84:8888
+        base-url:http://122.152.214.84:8080
         eos-test-net:https://www.cryptokylin.io/
         code:100
         detail:错误详情
@@ -96,7 +96,7 @@ eos人民币市场价
 ## 9、激活账户
         /eos/contract/active/{account}
 ```javascript
-
+{"code":"0","detail":"恭喜你，操作成功","data":"a84adfd02c4d13b37c0623835bbfa5a836c61faa294def5f413173cfd8443e04"}
 ```
 
 
